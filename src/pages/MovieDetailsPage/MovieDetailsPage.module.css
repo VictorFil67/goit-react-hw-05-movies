@@ -1,0 +1,16 @@
+.wrap {
+  display: flex;
+  gap: 20px;
+}
+.img {
+  width: 200px;
+  height: 300px;
+}
+.addInfo {
+  list-style: disc;
+  text-decoration: none;
+}
+.addInfoItem {
+  list-style: disc;
+  text-decoration: none;
+}

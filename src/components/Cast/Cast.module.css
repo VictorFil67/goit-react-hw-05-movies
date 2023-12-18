@@ -1,0 +1,9 @@
+.personPhoto {
+  width: 70px;
+  /* height: 100px; */
+}
+
+.itemPerson::before {
+  padding-top: 20px;
+  margin-top: 20px;
+}
